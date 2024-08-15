@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Analyzing Historical Revenue Data and Building a Dashboard** project focuses on analyzing historical revenue data to extract actionable insights and trends. The project culminates in developing an interactive dashboard visualising key financial metrics, enabling stakeholders to make informed, data-driven decisions. By utilising data analysis and visualisation techniques, this project enhances the understanding of revenue patterns over time.
+The **Analyzing Historical Revenue Data and Building a Dashboard** project focuses on analyzing historical revenue data to extract actionable insights and trends. The project culminates in developing an interactive dashboard visualising key financial metrics, enabling stakeholders to make informed, data-driven decisions. This project enhances the understanding of revenue patterns over time by utilising data analysis and visualisation techniques.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ The dataset used in this project includes historical revenue data, which consist
 To run this project locally, you must install Python and the required libraries. You can install the necessary packages using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly dash
+pip install pandas numpy matplotlib seaborn plotly dash yfinance
 ```
 
 ## Usage
