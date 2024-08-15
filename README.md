@@ -44,6 +44,7 @@ The dataset used in this project includes historical revenue data, which consist
 - **Seaborn**: Statistical data visualization library based on Matplotlib.
 - **Plotly**: Library for creating interactive visualizations.
 - **Dash**: Framework for building interactive web applications.
+- **YFinance**: Library to extract stock data.
 - **Jupyter Notebook**: Environment for interactive data analysis and visualization.
 
 ## Installation
